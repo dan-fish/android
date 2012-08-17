@@ -6,7 +6,7 @@
            fetch="https://github.com/" />
 
   <project name="Andromadus/android_device_htc_common" path="device/htc/common" remote="gh" revision="jb"/>
-  <project name="Andromadus/android_device_htc_saga" path="device/htc/saga" remote="gh" revision="jellybean" />
+  <project name="dan-fish/android_device_htc_saga" path="device/htc/saga" remote="gh" revision="jellybean" />
   <project name="Andromadus/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="gh" revision="jb" />
   <project name="Andromadus/propriertary_htc_saga" path="vendor/htc/saga" remote="gh" revision="master" />
   <project name="Andromadus/android_frameworks_av" path="frameworks/av" remote="gh" revision="jellybean" />
