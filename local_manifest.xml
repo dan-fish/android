@@ -2,6 +2,8 @@
 <manifest>
   <remote  name="linaro-android"
            fetch="git://android.git.linaro.org" />
+  <remote  name="gh"
+           fetch="https://github.com/"
 
   <project name="Andromadus/platform_device_htc_common" path="device/htc/common" revision="jb"/>
   <project name="Andromadus/platform_device_htc_saga" path="device/htc/saga" revision="jellybean" />
