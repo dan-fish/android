@@ -5,13 +5,13 @@
   <remote  name="gh"
            fetch="https://github.com/" />
 
-  <project name="Andromadus/android_device_htc_common" path="device/htc/common" revision="jb"/>
-  <project name="Andromadus/android_device_htc_saga" path="device/htc/saga" revision="jellybean" />
-  <project name="Andromadus/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" revision="jb" />
-  <project name="Andromadus/propriertary_htc_saga" path="vendor/htc/saga" revision="master" />
-  <project name="Andromadus/android_frameworks_av" path="frameworks/av" revision="jellybean" />
-  <project name="Andromadus/android_hardware_qcom_display" path="hardware/qcom/display" revision="jellybean" />
-  <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" revision="jellybean" />
-  <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" revision="jellybean" />
+  <project name="Andromadus/android_device_htc_common" path="device/htc/common" remote="gh" revision="jb"/>
+  <project name="Andromadus/android_device_htc_saga" path="device/htc/saga" remote="gh" revision="jellybean" />
+  <project name="Andromadus/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="gh" revision="jb" />
+  <project name="Andromadus/propriertary_htc_saga" path="vendor/htc/saga" remote="gh" revision="master" />
+  <project name="Andromadus/android_frameworks_av" path="frameworks/av" remote="gh" revision="jellybean" />
+  <project name="Andromadus/android_hardware_qcom_display" path="hardware/qcom/display" remote="gh" revision="jellybean" />
+  <project name="Andromadus/android_hardware_qcom_media" path="hardware/qcom/media" remote="gh" revision="jellybean" />
+  <project name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" remote="gh" revision="jellybean" />
   <project name="platform/packages/apps/0xbench" path="packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
 </manifest>
